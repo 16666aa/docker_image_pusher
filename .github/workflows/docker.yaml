@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
-
+  schedule
+    -cron '00 23 * * *'
 
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
@@ -50,5 +51,4 @@ jobs:
           echo "docker push $new_image"
           docker push $new_image
         done < images.txt
-  schedule
-    -cron '00 23 * * *'
+
