@@ -1,5 +1,13 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
+--platform=linux/arm64 adguard/adguardhome:latest
+--platform=linux/arm64 cnk3x/xunlei:latest
+--platform=linux/arm64 xhofe/alist:latest
+emby/embyserver_arm64v8:latest
+emby/embyserver_arm32v7:latest
+--platform=linux/arm64 jellyfin/jellyfin:latest
+--platform=linux/arm64 syncthing/syncthing:latest
+--platform=linux/arm64 cp0204/casamod:latest
+--platform=linux/arm64 homeassistant/home-assistant:latest
+--platform=linux/arm64 ghcr.io/imagegenius/immich:latest
+--platform=linux/arm64 ghcr.io/xrayr-project/xrayr:latest
+--platform=linux/arm64 liwei2633/gopeed
+--platform=linux/arm64 ghcr.io/analogj/scrutiny:master-omnibus
