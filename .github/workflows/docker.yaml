@@ -50,3 +50,5 @@ jobs:
           echo "docker push $new_image"
           docker push $new_image
         done < images.txt
+  schedule
+    -cron '00 23 * * *'
