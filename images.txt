@@ -1,3 +1,4 @@
+--platform=linux/arm/v8 liwei2633/gopeed
 --platform=linux/arm64 adguard/adguardhome:latest
 --platform=linux/arm64 cnk3x/xunlei:latest
 --platform=linux/arm64 xhofe/alist:latest
@@ -9,5 +10,4 @@ emby/embyserver_arm32v7:latest
 --platform=linux/arm64 homeassistant/home-assistant:latest
 --platform=linux/arm64 ghcr.io/imagegenius/immich:latest
 --platform=linux/arm64 ghcr.io/xrayr-project/xrayr:latest
---platform=linux/arm64 liwei2633/gopeed
 --platform=linux/arm64 ghcr.io/analogj/scrutiny:master-omnibus
