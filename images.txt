@@ -3,7 +3,6 @@
 --platform=linux/arm64 cnk3x/xunlei:latest
 --platform=linux/arm64 xhofe/alist:latest
 emby/embyserver_arm64v8:latest
-emby/embyserver_arm32v7:latest
 --platform=linux/arm64 jellyfin/jellyfin:latest
 --platform=linux/arm64 syncthing/syncthing:latest
 --platform=linux/arm64 cp0204/casamod:latest
@@ -11,3 +10,17 @@ emby/embyserver_arm32v7:latest
 --platform=linux/arm64 ghcr.io/imagegenius/immich:latest
 --platform=linux/arm64 ghcr.io/xrayr-project/xrayr:latest
 --platform=linux/arm64 ghcr.io/analogj/scrutiny:master-omnibus
+
+--platform=linux/amd64 cloudflare/cloudflared
+--platform=linux/amd64 liwei2633/gopeed
+--platform=linux/amd64 adguard/adguardhome:latest
+--platform=linux/amd64 cnk3x/xunlei:latest
+--platform=linux/amd64 xhofe/alist:latest
+--platform=linux/amd64 jellyfin/jellyfin:latest
+--platform=linux/amd64 syncthing/syncthing:latest
+--platform=linux/amd64 cp0204/casamod:latest
+--platform=linux/amd64 homeassistant/home-assistant:latest
+--platform=linux/amd64 ghcr.io/imagegenius/immich:latest
+--platform=linux/amd64 ghcr.io/xrayr-project/xrayr:latest
+--platform=linux/amd64 ghcr.io/analogj/scrutiny:master-omnibus
+--platform=linux/amd64 cloudflare/cloudflared
