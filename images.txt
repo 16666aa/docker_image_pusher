@@ -10,7 +10,7 @@
 --platform=linux/arm64 ghcr.io/imagegenius/immich:latest
 --platform=linux/arm64 ghcr.io/xrayr-project/xrayr:latest
 --platform=linux/arm64 ghcr.io/analogj/scrutiny:master-omnibus
---platform=linux/arm64 netdata/netdatay:stable
+--platform=linux/arm64 netdata/netdata:latest
 --platform=linux/arm64 p3terx/aria2-pro:latest
 --platform=linux/arm64 johnshine/baidunetdisk-crossover-vnc:latest
 --platform=linux/arm64 royzheng/baidunetdisk:latest
@@ -30,7 +30,7 @@
 --platform=linux/amd64 ghcr.io/xrayr-project/xrayr:latest
 --platform=linux/amd64 ghcr.io/analogj/scrutiny:master-omnibus
 --platform=linux/amd64 cloudflare/cloudflared
---platform=linux/amd64 netdata/netdatay:stable
+--platform=linux/amd64 netdata/netdata:latest
 --platform=linux/amd64 p3terx/aria2-pro:latest
 --platform=linux/amd64 johnshine/baidunetdisk-crossover-vnc:latest
 --platform=linux/amd64 royzheng/baidunetdisk:latest
