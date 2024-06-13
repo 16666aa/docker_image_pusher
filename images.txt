@@ -1,4 +1,3 @@
---platform=linux/arm64 ccr.ccs.tencentyun.com/text-to-speech/chat_tts_api_ui:latest
 --platform=linux/arm64 aibotk/wechat-assistant
 --platform=linux/arm64 liwei2633/gopeed
 --platform=linux/arm64 adguard/adguardhome:latest
