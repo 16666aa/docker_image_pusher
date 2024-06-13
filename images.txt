@@ -16,6 +16,7 @@
 --platform=linux/arm64 johngong/baidunetdisk:latest
 --platform=linux/arm64 privoce/vocechat-server:latest-arm64
 
+--platform=linux/amd64 royzheng/baidunetdisk:latest
 --platform=linux/amd64 ccr.ccs.tencentyun.com/text-to-speech/chat_tts_api_ui:latest
 --platform=linux/amd64 breakstring/gpt-sovits
 --platform=linux/amd64 aibotk/wechat-assistant
