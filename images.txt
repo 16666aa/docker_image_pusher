@@ -2,7 +2,7 @@
 --platform=linux/arm64 adguard/adguardhome:latest
 --platform=linux/arm64 cnk3x/xunlei:latest
 --platform=linux/arm64 xhofe/alist:latest
-emby/embyserver_arm64v8:latest
+--platform=linux/arm64 emby/embyserver_arm64v8:latest
 --platform=linux/arm64 jellyfin/jellyfin:latest
 --platform=linux/arm64 syncthing/syncthing:latest
 --platform=linux/arm64 cp0204/casamod:latest
@@ -10,6 +10,12 @@ emby/embyserver_arm64v8:latest
 --platform=linux/arm64 ghcr.io/imagegenius/immich:latest
 --platform=linux/arm64 ghcr.io/xrayr-project/xrayr:latest
 --platform=linux/arm64 ghcr.io/analogj/scrutiny:master-omnibus
+--platform=linux/arm64 netdata/netdatay:stable
+--platform=linux/arm64 p3terx/aria2-pro:latest
+--platform=linux/arm64 johnshine/baidunetdisk-crossover-vnc:latest
+--platform=linux/arm64 royzheng/baidunetdisk:latest
+--platform=linux/arm64 johngong/baidunetdisk:latest
+--platform=linux/arm64 privoce/vocechat-server:latest-arm64
 
 --platform=linux/amd64 cloudflare/cloudflared
 --platform=linux/amd64 liwei2633/gopeed
@@ -24,3 +30,10 @@ emby/embyserver_arm64v8:latest
 --platform=linux/amd64 ghcr.io/xrayr-project/xrayr:latest
 --platform=linux/amd64 ghcr.io/analogj/scrutiny:master-omnibus
 --platform=linux/amd64 cloudflare/cloudflared
+--platform=linux/amd64 netdata/netdatay:stable
+--platform=linux/amd64 p3terx/aria2-pro:latest
+--platform=linux/amd64 johnshine/baidunetdisk-crossover-vnc:latest
+--platform=linux/amd64 royzheng/baidunetdisk:latest
+--platform=linux/amd64 johngong/baidunetdisk:latest
+--platform=linux/amd64 privoce/vocechat-server:latest
+--platform=linux/amd64 emby/embyserver:latest
