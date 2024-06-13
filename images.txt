@@ -12,7 +12,6 @@
 --platform=linux/arm64 ghcr.io/analogj/scrutiny:master-omnibus
 --platform=linux/arm64 netdata/netdata:latest
 --platform=linux/arm64 p3terx/aria2-pro:latest
---platform=linux/arm64 johnshine/baidunetdisk-crossover-vnc:latest
 --platform=linux/arm64 royzheng/baidunetdisk:latest
 --platform=linux/arm64 johngong/baidunetdisk:latest
 --platform=linux/arm64 privoce/vocechat-server:latest-arm64
