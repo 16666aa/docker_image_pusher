@@ -1,3 +1,4 @@
+--platform=linux/arm64 breakstring/gpt-sovits
 --platform=linux/arm64 aibotk/wechat-assistant
 --platform=linux/arm64 liwei2633/gopeed
 --platform=linux/arm64 adguard/adguardhome:latest
@@ -16,6 +17,7 @@
 --platform=linux/arm64 johngong/baidunetdisk:latest
 --platform=linux/arm64 privoce/vocechat-server:latest-arm64
 
+--platform=linux/amd64 breakstring/gpt-sovits
 --platform=linux/amd64 aibotk/wechat-assistant
 --platform=linux/amd64 aibotk/wechat-bot
 --platform=linux/amd64 yunyoujun/cook:latest
@@ -36,7 +38,6 @@
 --platform=linux/amd64 netdata/netdata:latest
 --platform=linux/amd64 p3terx/aria2-pro:latest
 --platform=linux/amd64 johnshine/baidunetdisk-crossover-vnc:latest
---platform=linux/amd64 royzheng/baidunetdisk:latest
 --platform=linux/amd64 johngong/baidunetdisk:latest
 --platform=linux/amd64 privoce/vocechat-server:latest
 --platform=linux/amd64 emby/embyserver:latest
