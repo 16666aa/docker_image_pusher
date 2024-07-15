@@ -1,9 +1,9 @@
---platform=linux/arm64 hotio/qbittorrent
---platform=linux/arm64 superng6/qbittorrent
---platform=linux/arm64 lscr.io/linuxserver/qbittorrent
+--platform=linux/arm64 hotio/qbittorrent:latest
+--platform=linux/arm64 superng6/qbittorrent:latest
+--platform=linux/arm64 lscr.io/linuxserver/qbittorrent:latest
 --platform=linux/arm64 airportr/fulltclash:latest
 --platform=linux/arm64 aibotk/wechat-assistant
---platform=linux/arm64 liwei2633/gopeed
+--platform=linux/arm64 liwei2633/gopeed:latest
 --platform=linux/arm64 adguard/adguardhome:latest
 --platform=linux/arm64 cnk3x/xunlei:latest
 --platform=linux/arm64 xhofe/alist:latest
@@ -20,9 +20,9 @@
 --platform=linux/arm64 johngong/baidunetdisk:latest
 --platform=linux/arm64 privoce/vocechat-server:latest-arm64
 
---platform=linux/amd64 hotio/qbittorrent
---platform=linux/amd64 lscr.io/linuxserver/qbittorrent
---platform=linux/amd64 superng6/qbittorrent
+--platform=linux/amd64 hotio/qbittorrent:latest
+--platform=linux/amd64 lscr.io/linuxserver/qbittorrent:latest
+--platform=linux/amd64 superng6/qbittorrent:latest
 --platform=linux/amd64 airportr/fulltclash:latest
 --platform=linux/amd64 royzheng/baidunetdisk:latest
 --platform=linux/amd64 breakstring/gpt-sovits
